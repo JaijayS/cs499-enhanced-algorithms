@@ -1,0 +1,51 @@
+CSCI100,Introduction to Computer Science,,Dr. Smith
+CSCI101,Introduction to Programming in C++,CSCI100,Dr. Smith
+CSCI102,Fundamentals of Computing,CSCI100,Prof. Carter
+CSCI103,Programming Logic,CSCI100,Prof. Carter
+CSCI104,Web Development Basics,CSCI100,Prof. Kim
+CSCI105,Problem Solving with Algorithms,CSCI100,Prof. Kim
+MATH201,Discrete Mathematics,,Dr. White
+CSCI200,Data Structures,CSCI101,Dr. Reed
+CSCI201,Object-Oriented Programming,CSCI101,Dr. Reed
+CSCI202,Intermediate C++,CSCI101,Dr. Adams
+CSCI203,Java Programming,CSCI101,Dr. Adams
+CSCI204,Python Programming,CSCI101,Prof. Lee
+CSCI205,Mobile App Development,CSCI104 CSCI101,Prof. Lee
+CSCI206,Database Systems,CSCI101,Dr. White
+CSCI207,Software Engineering,CSCI200 CSCI206,Prof. Patel
+CSCI208,Computer Architecture,CSCI200,Dr. Foster
+CSCI209,Operating Environments,CSCI200,Dr. Foster
+CSCI210,Programming Languages,CSCI200,Prof. Wood
+CSCI211,Game Development Basics,CSCI200 CSCI104,Prof. Wood
+CSCI212,Cloud Fundamentals,CSCI206,Dr. Bell
+CSCI213,Cybersecurity Principles,CSCI101,Prof. Garcia
+CSCI214,Data Visualization,CSCI204 CSCI206,Prof. Garcia
+CSCI215,Parallel Programming,CSCI200,Prof. Nelson
+CSCI216,Unix Programming,CSCI101,Prof. Nelson
+CSCI217,Networks and Communications,CSCI200,Prof. Mitchell
+CSCI218,Ethical Hacking,CSCI213,Prof. Mitchell
+CSCI219,Information Assurance,CSCI213,Dr. Simmons
+CSCI220,Compiler Design,CSCI210,Dr. Simmons
+CSCI221,IoT Programming,CSCI204,Prof. Hayes
+CSCI222,Functional Programming,CSCI210,Prof. Hayes
+CSCI223,Machine Learning Intro,CSCI204 CSCI200,Prof. Olson
+CSCI224,AI Fundamentals,CSCI223,Prof. Olson
+CSCI225,Software Testing,CSCI207,Dr. Chavez
+CSCI226,Agile Development,CSCI207,Dr. Chavez
+CSCI227,Advanced JavaScript,CSCI104,Prof. Wallace
+CSCI228,Web Frameworks,CSCI104 CSCI206,Prof. Wallace
+CSCI229,UX/UI Design,CSCI104,Prof. Wallace
+CSCI230,Mobile UX Design,CSCI229,Prof. Wallace
+CSCI231,Advanced Python,CSCI204,Prof. Sharp
+CSCI232,Data Analytics,CSCI206,Prof. Sharp
+CSCI233,Deep Learning,CSCI224,Prof. Sharp
+CSCI234,Natural Language Processing,CSCI224,Prof. Peters
+CSCI235,Computer Vision,CSCI224,Prof. Peters
+CSCI236,Big Data Fundamentals,CSCI206,Prof. Watkins
+CSCI237,Quantum Computing Intro,MATH201,Dr. Shaw
+CSCI238,Data Ethics,MATH201,Dr. Shaw
+CSCI239,Bioinformatics Intro,CSCI231,Prof. Rice
+CSCI240,DevOps Essentials,CSCI225,Prof. Rice
+CSCI241,Blockchain Basics,CSCI206,Dr. Silva
+CSCI242,Virtual Reality Programming,CSCI211,Prof. Snyder
+CSCI243,Augmented Reality Development,CSCI211,Prof. Snyder
